@@ -36,7 +36,7 @@ echo "Your result:    "; ./Doop 1 / 0
 echo
 echo "Arguments: 1 % 0"
 echo "Expected result:"
-echo "No remainder of division by 0"
+echo "No modulo by 0"
 echo "Your result:    "; ./Doop 1 % 0
 echo
 echo "Arguments: 1 * 1"
