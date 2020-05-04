@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	student ".."
+	student "../.."
 )
 
 func PrintList(l *student.NodeI) {

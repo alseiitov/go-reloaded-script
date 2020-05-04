@@ -206,7 +206,6 @@ echo
 echo
 echo SortListInsert
 echo
-cd ./Lists
 cd ./SortListInsert
 ./test.sh
 cd ..
@@ -246,23 +245,6 @@ echo
 echo
 echo
 echo
-echo
-echo ListRemoveIf
-echo
-cd ./ListRemoveIf
-./test.sh
-cd ..
-echo
-echo
-echo
-echo
-echo
-echo
-echo
-echo
-echo
-cd ..
-cd BTrees
 echo BTreeTransplant
 echo
 cd ./BTreeTransplant
@@ -305,7 +287,6 @@ echo
 echo
 echo
 echo
-cd ..
 echo Cat
 echo
 cd ./Cat

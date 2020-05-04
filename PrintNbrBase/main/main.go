@@ -4,7 +4,7 @@ import (
 	"os"
 	"strconv"
 
-	student ".."
+	student "../.."
 	"github.com/01-edu/z01"
 )
 

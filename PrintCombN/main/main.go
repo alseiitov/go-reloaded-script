@@ -4,7 +4,7 @@ import (
 	"os"
 	"strconv"
 
-	student ".."
+	student "../.."
 )
 
 func main() {

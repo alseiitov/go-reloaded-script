@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	student ".."
+	student "../.."
 )
 
 func main() {
